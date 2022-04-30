@@ -19,7 +19,7 @@ Use these links to navigate through this README.
 
 To install this application, open `terminal` and clone the repository by running:
 
-    git clone https://github.com/benw10-1/bugTracker.git
+    git clone https://github.com/calvin-kim13/bugTracker.git
 
 ## Usage
 
